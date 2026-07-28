@@ -1,6 +1,13 @@
-# 🧑🏻‍💻 Alef Carvalho
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38bdae&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Alef+Vincius+C+Carvalho+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=38bdae&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-**`Desenvolvedor Full Stack`**
+**`🧑‍💻 Desenvolvedor Full Stack`**
 
 Me chamo Alef Vinicius C Carvalho, tenho 19 anos, sou brasileiro e residente no estado do Paraná. Atualmente, estou cursando Ciência de Dados e Inteligência Artificial (CDIA) na Universidade Estadual de Londrina (UEL). Sou apaixonado por tecnologia e entusiasta na criação de sistemas e jogos. Estou sempre buscando expandir e aprofundar minhas áreas de conhecimento.
 
@@ -43,7 +50,7 @@ Me chamo Alef Vinicius C Carvalho, tenho 19 anos, sou brasileiro e residente no 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Favorite Tools
 
 <img
     align="left"
