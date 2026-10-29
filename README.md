@@ -143,7 +143,11 @@ Me chamo Alef Vinicius C Carvalho, tenho 19 anos, sou brasileiro e residente no 
 <img
   alt="Linguagens mais utilizadas por Alef Carvalho"
   width="100%"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlefVCarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlefVCarvalho&theme=tokyonight&hide_border=true&layout=compact&custom_title=Tecnologias&langs_count=8"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=AlefVCarvalho&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"
 />
 
 </td>
