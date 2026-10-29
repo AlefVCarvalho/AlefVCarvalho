@@ -1,17 +1,23 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38bdae&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Alef+Vincius+C+Carvalho+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9966cc&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Alef+Vincius+C+Carvalho+%E2%8A%B9+" alt="Typing SVG">
   </a>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=38bdae&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=9966cc&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
-**`🧑‍💻 Desenvolvedor Full Stack`**
+<p align="center">
+  <strong><code>🧑‍💻 Desenvolvedor Full Stack</code></strong>
+  &nbsp;
+  <strong><code>🎮 Enthusiast Game Developer</code></strong>
+  &nbsp;
+  <strong><code>🎨 UX/UI</code></strong>
+</p>
 
 Me chamo Alef Vinicius C Carvalho, tenho 19 anos, sou brasileiro e residente no estado do Paraná. Atualmente, estou cursando Ciência de Dados e Inteligência Artificial (CDIA) na Universidade Estadual de Londrina (UEL). Sou apaixonado por tecnologia e entusiasta na criação de sistemas e jogos. Estou sempre buscando expandir e aprofundar minhas áreas de conhecimento.
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/alef-v-c-carvalho">
     <img
@@ -50,82 +56,118 @@ Me chamo Alef Vinicius C Carvalho, tenho 19 anos, sou brasileiro e residente no 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-#### 💻 Linguagens & Back-end
-<p align="left">
-  <img title="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  &nbsp;
-  <img title="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  &nbsp;
-  <img title="C#" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  &nbsp;
-  <img title="C++" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  &nbsp;
-  <img title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  &nbsp;
-  <img title="Spring Boot" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-</p>
-
-#### 🎨 Front-end
-<p align="left">
-  <img title="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  &nbsp;
-  <img title="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-</p>
-
-#### 🗄️ Banco de Dados
-<p align="left">
-  <img title="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  &nbsp;
-  <img title="PostgreSQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  &nbsp;
-  <img title="Supabase" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-</p>
-
-#### 🛠️ Ferramentas e Desenvolvimento
-<p align="left">
-  <img title="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  &nbsp;
-  <img title="Postman" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  &nbsp;
-  <img title="IntelliJ IDEA" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-  &nbsp;
-  <img title="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  &nbsp;
-  <img title="Visual Studio Code" width="32px" src="https://www.antigravity.google/assets/image/brand/antigravity-icon__full-color.png"/>
-</p>
-
-#### ☁️ Deploy e Infraestrutura
-<p align="left">
-  <img title="Vercel" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-</p>
 
 ---
 
-### 📊 Estatísticas
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🤖 Linguagens e Tecnologias
+
+**💻 Linguagens & Back-end**
 
 <p align="left">
+  <img title="Python" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Java" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  &nbsp;&nbsp;
+  <img title="C#" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  &nbsp;&nbsp;
+  <img title="C++" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  &nbsp;&nbsp;
+  <img title="JavaScript" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Spring Boot" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+</p>
+
+**🎨 Front-end**
+
+<p align="left">
+  <img title="HTML5" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  &nbsp;&nbsp;
+  <img title="CSS3" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Lovable" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lovable/lovable-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Cursor" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg" />
+</p>
+
+**🗄️ Banco de Dados**
+
+<p align="left">
+  <img title="MySQL" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  &nbsp;&nbsp;
+  <img title="PostgreSQL" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Supabase" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+</p>
+
+**🛠️ Ferramentas e Desenvolvimento**
+
+<p align="left">
+  <img title="Git" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Postman" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  &nbsp;&nbsp;
+  <img title="IntelliJ IDEA" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  &nbsp;&nbsp;
+  <img title="PyCharm" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Visual Studio Code" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Google Antigravity" width="32" src="https://www.antigravity.google/assets/image/brand/antigravity-icon__full-color.png" />
+  &nbsp;&nbsp;
+  <img title="Vercel" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Cloudflare" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+</p>
+
+**🤖 Agents e IA**
+
+<p align="left">
+  <img title="Codex" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codex/codex-original.svg" />
+  &nbsp;&nbsp;
+  <img title="Claude Code" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claudecode/claudecode-original.svg" />
+  &nbsp;&nbsp;
+  <img title="GitHub Copilot" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcopilot/githubcopilot-plain.svg" />
+  &nbsp;&nbsp;
+  <img title="Notion" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+</p>
+
+</td>
+<td width="40%" valign="top" align="center">
+
+### 📊 Estatísticas
 
 <img
-    align="left"
-    alt="Estatísticas do GitHub de Alef Carvalho"
-    height="195px"
-    style="padding-right: 10px;"
-    src="https://github-stats-extended.vercel.app/api?username=AlefVCarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  alt="Linguagens mais utilizadas por Alef Carvalho"
+  width="100%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlefVCarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
 />
 
-<img
-    align="left"
-    alt="Linguagens mais utilizadas por Alef Carvalho"
-    height="195px"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlefVCarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-/>
+</td>
+</tr>
+</table>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlefVCarvalho/AlefVCarvalho/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlefVCarvalho/AlefVCarvalho/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlefVCarvalho/AlefVCarvalho/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
+### 📈 Histórico de Contribuições
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AlefVCarvalho/AlefVCarvalho/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AlefVCarvalho/AlefVCarvalho/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Animação do histórico de contribuições do GitHub"
+      width="100%"
+      src="https://raw.githubusercontent.com/AlefVCarvalho/AlefVCarvalho/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
