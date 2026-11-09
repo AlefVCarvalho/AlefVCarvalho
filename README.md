@@ -8,6 +8,8 @@
 </div>
 
 <p align="center">
+  <strong><code>📊 Data Scientist</code></strong>
+  &nbsp;
   <strong><code>🧑‍💻 Desenvolvedor Full Stack</code></strong>
   &nbsp;
   <strong><code>🎮 Enthusiast Game Developer</code></strong>
@@ -15,24 +17,23 @@
   <strong><code>🎨 UX/UI</code></strong>
 </p>
 
-Me chamo Alef Vinicius C Carvalho, tenho 19 anos, sou brasileiro e residente no estado do Paraná. Atualmente, estou cursando Ciência de Dados e Inteligência Artificial (CDIA) na Universidade Estadual de Londrina (UEL). Sou apaixonado por tecnologia e entusiasta na criação de sistemas e jogos. Estou sempre buscando expandir e aprofundar minhas áreas de conhecimento.
+Me chamo Alef Vinicius C Carvalho, tenho 19 anos, sou brasileiro e residente no estado do Paraná. Atualmente, estou cursando Ciência de Dados e Inteligência Artificial (CDIA) na Universidade Estadual de Londrina (UEL). Sou apaixonado por tecnologia tenho grande interesse na área de dados e sou entusiasta na criação de sistemas e jogos. Estou sempre buscando expandir e aprofundar minhas áreas de conhecimento.
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/alef-v-c-carvalho">
     <img
-        alt="Conexões no LinkedIn"
+        alt="LinkedIn"
         title="Conecte-se comigo no LinkedIn"
-        height="28"
-        src="https://img.shields.io/badge/LinkedIn-1.7k%2B-0095DE?style=for-the-badge&labelColor=0A66C2&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D"
+        src="https://img.shields.io/badge/-Connect%20with%20me-0095DE?style=for-the-badge&labelColor=0A66C2&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D"
     />
 </a>
 
 <a href="https://www.instagram.com/alef_vcairescarvalho">
     <img
-        alt="Seguidores no Instagram"
+        alt="Instagram"
         title="Siga-me no Instagram"
-        src="https://img.shields.io/badge/Instagram-500+-FF3850?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"
+        src="https://img.shields.io/badge/-Follow%20me-FF3850?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"
     />
 </a>
 
